@@ -3,6 +3,314 @@
   <component name="ChangeListManager">
     <list default="true" id="58099c9f-f29d-4b2b-a5ba-2f44b37aae51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/model/Trible-gan/Tgan.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/Tgan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+0.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+10000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+10000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+10400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+10400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+10800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+10800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+11200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+11200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+11600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+11600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+1200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+1200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+12000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+12000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+12400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+12400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+12800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+12800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+13200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+13200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+13600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+13600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+14000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+14000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+14400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+14400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+14800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+14800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+15200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+15200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+15600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+15600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+1600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+1600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+16000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+16000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+16400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+16400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+16800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+16800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+17200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+17200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+17600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+17600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+18000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+18000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+18400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+18400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+18800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+18800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+19200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+19200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+19600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+19600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+2000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+2000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+20000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+20000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+20400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+20400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+20800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+20800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+21200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+21200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+21600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+21600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+22000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+22000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+22400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+22400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+22800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+22800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+23200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+23200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+23600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+23600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+2400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+2400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+24000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+24000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+24400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+24400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+24800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+24800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+25200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+25200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+25600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+25600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+26000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+26000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+26400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+26400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+26800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+26800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+27200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+27200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+27600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+27600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+2800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+2800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+28000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+28000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+28400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+28400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+28800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+28800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+29200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+29200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+29600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+29600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+30000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+30000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+30400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+30400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+30800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+30800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+31200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+31200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+31600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+31600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+3200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+3200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+32000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+32000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+32400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+32400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+32800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+32800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+33200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+33200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+33600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+33600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+34000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+34000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+34400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+34400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+34800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+34800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+35200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+35200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+35600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+35600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+3600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+3600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+36000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+36000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+36400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+36400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+36800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+36800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+37200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+37200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+37600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+37600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+38000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+38000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+38400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+38400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+38800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+38800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+39200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+39200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+39600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+39600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+4000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+4000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+40000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+40000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+40400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+40400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+40800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+40800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+41200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+41200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+41600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+41600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+42000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+42000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+42400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+42400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+42800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+42800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+43200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+43200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+43600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+43600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+4400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+4400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+44000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+44000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+44400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+44400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+44800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+44800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+45200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+45200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+45600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+45600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+46000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+46000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+46400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+46400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+46800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+46800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+47200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+47200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+47600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+47600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+4800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+4800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+48000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+48000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+48400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+48400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+48800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+48800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+49200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+49200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+49600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+49600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+50000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+50000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+50400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+50400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+50800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+50800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+51200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+51200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+51600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+51600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+5200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+5200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+52000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+52000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+52400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+52400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+52800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+52800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+53200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+53200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+53600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+53600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+54000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+54000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+54400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+54400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+54800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+54800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+55200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+55200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+55600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+55600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+5600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+5600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+56000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+56000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+56400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+56400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+56800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+56800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+57200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+57200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+57600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+57600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+58000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+58000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+58400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+58400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+58800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+58800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+59200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+59200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+59600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+59600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+6000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+6000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+60000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+60000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+60400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+60400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+60800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+60800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+61200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+61200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+6400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+6400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+6800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+6800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+7200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+7200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+7600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+7600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+8000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+8000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+8400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+8400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+8800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+8800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+9200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+9200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/1+9600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/1+9600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+0.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+10000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+10000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+10400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+10400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+10800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+10800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+11200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+11200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+11600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+11600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+1200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+1200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+12000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+12000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+12400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+12400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+12800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+12800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+13200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+13200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+13600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+13600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+14000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+14000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+14400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+14400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+14800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+14800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+15200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+15200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+15600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+15600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+1600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+1600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+16000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+16000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+16400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+16400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+16800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+16800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+17200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+17200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+17600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+17600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+18000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+18000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+18400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+18400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+18800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+18800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+19200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+19200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+19600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+19600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+2000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+2000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+20000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+20000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+20400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+20400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+20800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+20800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+21200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+21200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+21600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+21600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+22000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+22000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+22400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+22400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+22800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+22800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+23200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+23200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+23600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+23600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+2400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+2400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+24000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+24000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+24400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+24400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+24800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+24800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+25200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+25200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+25600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+25600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+26000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+26000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+26400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+26400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+26800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+26800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+27200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+27200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+27600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+27600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+2800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+2800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+28000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+28000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+28400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+28400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+28800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+28800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+29200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+29200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+29600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+29600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+30000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+30000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+30400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+30400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+30800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+30800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+31200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+31200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+31600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+31600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+3200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+3200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+32000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+32000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+32400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+32400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+32800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+32800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+33200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+33200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+33600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+33600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+34000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+34000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+34400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+34400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+34800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+34800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+35200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+35200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+35600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+35600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+3600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+3600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+36000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+36000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+36400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+36400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+36800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+36800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+37200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+37200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+37600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+37600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+38000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+38000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+38400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+38400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+38800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+38800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+39200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+39200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+39600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+39600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+4000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+4000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+40000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+40000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+40400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+40400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+40800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+40800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+41200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+41200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+41600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+41600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+42000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+42000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+42400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+42400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+42800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+42800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+43200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+43200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+43600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+43600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+4400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+4400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+44000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+44000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+44400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+44400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+44800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+44800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+45200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+45200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+45600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+45600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+46000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+46000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+46400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+46400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+46800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+46800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+47200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+47200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+47600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+47600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+4800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+4800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+48000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+48000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+48400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+48400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+48800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+48800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+49200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+49200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+49600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+49600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+50000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+50000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+50400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+50400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+50800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+50800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+51200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+51200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+51600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+51600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+5200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+5200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+52000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+52000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+52400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+52400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+52800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+52800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+53200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+53200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+53600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+53600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+54000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+54000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+54400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+54400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+54800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+54800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+55200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+55200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+55600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+55600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+5600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+5600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+56000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+56000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+56400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+56400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+56800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+56800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+57200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+57200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+57600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+57600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+58000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+58000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+58400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+58400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+58800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+58800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+59200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+59200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+59600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+59600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+6000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+6000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+60000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+60000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+60400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+60400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+60800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+60800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+61200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+61200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+6400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+6400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+6800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+6800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+7200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+7200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+7600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+7600.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+8000.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+8000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+8400.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+8400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+8800.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+8800.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+9200.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+9200.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Trible-gan/images/2+9600.png" beforeDir="false" afterPath="$PROJECT_DIR$/model/Trible-gan/images/2+9600.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +335,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/Trible-gan/Tgan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="78" column="39" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
+            <state relative-caret-position="-938">
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -220,12 +528,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611314184714</updated>
-      <workItem from="1611314186492" duration="6434000" />
+      <workItem from="1611314186492" duration="7702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6434000" />
+    <option name="totallyTimeSpent" value="7702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -242,7 +550,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2657267" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2657267" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -258,21 +566,11 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pytorch_GAN$Tgan.coverage" NAME="Tgan Coverage Results" MODIFIED="1611324080424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/Trible-gan" />
+    <SUITE FILE_PATH="coverage/pytorch_GAN$Tgan.coverage" NAME="Tgan Coverage Results" MODIFIED="1611327543496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/Trible-gan" />
     <SUITE FILE_PATH="coverage/pytorch_GAN$gan.coverage" NAME="gan Coverage Results" MODIFIED="1611314389967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/gan" />
     <SUITE FILE_PATH="coverage/pytorch_GAN$wgan.coverage" NAME="wgan Coverage Results" MODIFIED="1611314762692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/wgan" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/model/wgan/wgan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2106">
-          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/gan/gan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -283,10 +581,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/wgan/wgan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2106">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/model/Trible-gan/Tgan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="78" column="39" selection-start-line="78" selection-start-column="39" selection-end-line="78" selection-end-column="39" />
+        <state relative-caret-position="-938">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

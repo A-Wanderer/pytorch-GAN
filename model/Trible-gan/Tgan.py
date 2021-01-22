@@ -113,8 +113,8 @@ dataloader = torch.utils.data.DataLoader(
 # Optimizers
 optimizer_G1 = torch.optim.Adam(generator1.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
 optimizer_G2 = torch.optim.Adam(generator2.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
-optimizer_G1toG2 = torch.optim.Adam(generator1.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
-optimizer_G2toG1 = torch.optim.Adam(generator2.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
+optimizer_G1toG2 = torch.optim.Adam(generator1.parameters(), lr=opt.lr*0.1, betas=(opt.b1, opt.b2))
+optimizer_G2toG1 = torch.optim.Adam(generator2.parameters(), lr=opt.lr*0.1, betas=(opt.b1, opt.b2))
 optimizer_D = torch.optim.Adam(discriminator.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
 
 Tensor = torch.cuda.FloatTensor if cuda else torch.FloatTensor
