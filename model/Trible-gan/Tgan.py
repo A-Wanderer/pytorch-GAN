@@ -85,11 +85,13 @@ class Discriminator(nn.Module):
 adversarial_loss = torch.nn.BCELoss()
 
 # Initialize generator and discriminator
-generator = Generator()
+generator1 = Generator()
+generator2 = Generator();
 discriminator = Discriminator()
 
 if cuda:
-    generator.cuda()
+    generator1.cuda()
+    generator2.cuda()
     discriminator.cuda()
     adversarial_loss.cuda()
 
@@ -109,7 +111,10 @@ dataloader = torch.utils.data.DataLoader(
 )
 
 # Optimizers
-optimizer_G = torch.optim.Adam(generator.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
+optimizer_G1 = torch.optim.Adam(generator1.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
+optimizer_G2 = torch.optim.Adam(generator2.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
+optimizer_G1toG2 = torch.optim.Adam(generator1.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
+optimizer_G2toG1 = torch.optim.Adam(generator2.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
 optimizer_D = torch.optim.Adam(discriminator.parameters(), lr=opt.lr, betas=(opt.b1, opt.b2))
 
 Tensor = torch.cuda.FloatTensor if cuda else torch.FloatTensor
@@ -129,22 +134,42 @@ for epoch in range(opt.n_epochs):
         real_imgs = Variable(imgs.type(Tensor))
 
         # -----------------
-        #  Train Generator
+        #  Train Generator1
         # -----------------
 
-        optimizer_G.zero_grad()
+        optimizer_G1.zero_grad()
 
         # Sample noise as generator input
-        z = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], opt.latent_dim))))
+        z1 = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], opt.latent_dim))))
 
         # Generate a batch of images
-        gen_imgs = generator(z)
+        gen_imgs1 = generator1(z1)
 
         # Loss measures generator's ability to fool the discriminator
-        g_loss = adversarial_loss(discriminator(gen_imgs), valid)
+        g_loss = adversarial_loss(discriminator(gen_imgs1), valid)
 
         g_loss.backward()
-        optimizer_G.step()
+        optimizer_G1.step()
+
+
+        # -----------------
+        #  Train Generator1
+        # -----------------
+
+        optimizer_G2.zero_grad()
+
+        # Sample noise as generator input
+        z2 = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], opt.latent_dim))))
+
+        # Generate a batch of images
+        gen_imgs2 = generator2(z2)
+
+        # Loss measures generator's ability to fool the discriminator
+        g_loss = adversarial_loss(discriminator(gen_imgs2), valid)
+
+        g_loss.backward()
+        optimizer_G2.step()
+
 
         # ---------------------
         #  Train Discriminator
@@ -154,11 +179,37 @@ for epoch in range(opt.n_epochs):
 
         # Measure discriminator's ability to classify real from generated samples
         real_loss = adversarial_loss(discriminator(real_imgs), valid)
-        fake_loss = adversarial_loss(discriminator(gen_imgs.detach()), fake)
-        d_loss = (real_loss + fake_loss) / 2
+        fake_loss1 = adversarial_loss(discriminator(gen_imgs1.detach()), fake)
+        fake_loss2 = adversarial_loss(discriminator(gen_imgs2.detach()), fake)
+        d_loss = (real_loss + fake_loss1 + fake_loss2) / 3
 
         d_loss.backward()
         optimizer_D.step()
+
+        # ---------------------
+        #  Train Generator1 - Generator2
+        # ---------------------
+
+        z3 = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], opt.latent_dim))))
+        gen_imgs1 = generator1(z3)
+        gen_imgs2 = generator2(z3)
+
+        if(fake_loss1 > fake_loss2):#now generator2 is better
+            optimizer_G1toG2.zero_grad()
+            target = discriminator(gen_imgs2.detach())
+            target = Variable(target, requires_grad=False)
+            G1toG2loss = adversarial_loss(discriminator(gen_imgs1), target)
+            G1toG2loss.backward()
+            optimizer_G1toG2.step()
+
+        else:#now generator1 is better
+            optimizer_G2toG1.zero_grad()
+            target = discriminator(gen_imgs1.detach())
+            target = Variable(target, requires_grad=False)
+            G1toG2loss = adversarial_loss(discriminator(gen_imgs2), target)
+            G1toG2loss.backward()
+            optimizer_G2toG1.step()
+
 
         print(
             "[Epoch %d/%d] [Batch %d/%d] [D loss: %f] [G loss: %f]"
@@ -166,6 +217,6 @@ for epoch in range(opt.n_epochs):
         )
 
         batches_done = epoch * len(dataloader) + i
-        print(gen_imgs.data[1].shape);
         if batches_done % opt.sample_interval == 0:
-            save_image(gen_imgs.data[:6], "images/%d.png" % batches_done, nrow=5, normalize=True)
+            save_image(gen_imgs1.data[:25], "images/1+%d.png" % batches_done, nrow=5, normalize=True)
+            save_image(gen_imgs2.data[:25], "images/2+%d.png" % batches_done, nrow=5, normalize=True)
